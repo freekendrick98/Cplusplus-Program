@@ -12,7 +12,7 @@ While some of the documentation questions may have been impartial to my opinion,
 Working through a design document makes the user look at every single aspect of the code in order to answer the questions. In doing this, the user is forced to look over the entirety of the code and familirize themselves with it and how it works.
 
 #If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
-If I could change anything it would be the software selection aspect. While I did do my research, there are always other options or methods that may or may not be more efficent.
+If I could change anything it would be the software selection aspect. While I did my research, there are always other options or methods that may or may not be more efficent. I recommended MacOS for any kind of editing, but I personally don't know or use that OS. 
 
 #How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
 Considering the users needs is one of the most important aspects of the design. If the project doesn't do what the user wants then its pointless. All of the users needs were met in this project because it was done step by step as instructed in the rubrics.
